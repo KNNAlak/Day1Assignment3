@@ -1,4 +1,4 @@
-import pandas as pd
+
 x = float(input('Please input the length of the room: '))
 y = float(input('Please input the width of the room: '))
 z =  float(input('Please input the length of the door: '))
